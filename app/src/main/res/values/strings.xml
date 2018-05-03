@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewsDigifico</string>
+    <string name="no_internet_dialog">No internet connection.</string>
+    <string name="neutral_btn">OK</string>
+</resources>
